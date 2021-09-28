@@ -1,0 +1,14 @@
+body {}
+
+#principal {
+    color: red;
+    background: url(../fundos/fundo1.jpg) center/cover no-repeat fixed;
+}
+
+#Titulo {
+    color: #70E5AE;
+}
+
+.texto_verde {
+    color: green;
+}
