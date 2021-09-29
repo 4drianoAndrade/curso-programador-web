@@ -1,0 +1,18 @@
+body {}
+
+#paragrafos {
+    /*color: red;*/
+    background: red;
+}
+
+.subDiv {
+    background-color: yellow;
+}
+
+#Titulo {
+    color: #70E5AE;
+}
+
+.texto_verde {
+    color: green;
+}
