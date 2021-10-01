@@ -1,0 +1,37 @@
+body {}
+
+
+/*
+#paragrafos {
+    color: blue;
+    background: red;
+}
+
+.subDiv {
+    background-color: yellow;
+}
+*/
+
+p {
+    color: blue;
+}
+
+#Titulo {
+    color: #70E5AE;
+}
+
+.texto_verde {
+    color: green;
+}
+
+.container {
+    width: 200px;
+    height: 500px;
+    background: red;
+}
+
+.inside {
+    width: 50%;
+    height: 50%;
+    background: blue;
+}
