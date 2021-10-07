@@ -1,0 +1,18 @@
+.links {
+    color: #BC2035;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    border: 2px solid #BC2035;
+}
+
+.links:active {
+    background: #BC2035;
+    color: white;
+}
+
+.links:visited {
+    border-color: #DDD;
+    color: #DDD;
+}
