@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    padding-left: 0;
+    margin: 0;
+    font-family: monospace;
+}
+
+body {
+    background-color: black;
+}
+
+#cartao {
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 400px;
+    height: 200px;
+    background-image: url(../imagens/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(77, 77, 77);
+}
+
+.nome {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-weight: normal;
+    font-size: 22px;
+    letter-spacing: 1px;
+    word-spacing: -3px;
+}
+
+#conteudo {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.instagram {
+    list-style-image: url(../imagens/Insta.png);
+    list-style-position: inside;
+}
+
+.twitter {
+    list-style-image: url(../imagens/Twitter.png);
+    list-style-position: inside;
+}
+
+.youtube {
+    list-style-image: url(../imagens/Youtube.png);
+    list-style-position: inside;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(77, 77, 77);
+}
+
+a:link {
+    color: rgb(77, 77, 77);
+}
